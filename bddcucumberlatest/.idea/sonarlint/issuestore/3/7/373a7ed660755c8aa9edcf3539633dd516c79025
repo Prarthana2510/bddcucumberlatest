@@ -1,0 +1,7 @@
+
+w
+java:S2629?"\Invoke method(s) only conditionally. Use the built-in formatting to construct this argument.(°ïÂðøÿÿÿÿ
+\
+java:S3457?"AFormat specifiers should be used instead of string concatenation.(°ïÂðøÿÿÿÿ
+?	java:S106J"+Replace this use of System.out by a logger.(Õ§†
+]	java:S125M"<This block of commented-out lines of code should be removed.(ÿ§Øâüÿÿÿÿ8·…ÄîÇ1
